@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div className="demo-big-content">
           <Layout>
-              <Header className="header-color" title="Varell" scroll>
+              <Header className="header-color" title="Portfolio - Varell" scroll>
                   <Navigation>
                       <Link to="/beranda">Beranda</Link>
                       <Link to="/tentangsaya">Tentang Saya</Link>

@@ -16,7 +16,7 @@ class App extends Component {
                      
                   </Navigation>
               </Header>
-              <Drawer title="Varell">
+              <Drawer title="Portfolio - Varell">
                   <Navigation>
                   <Link to="/beranda">Beranda</Link>
                   <Link to="/tentangsaya">Tentang Saya</Link>
